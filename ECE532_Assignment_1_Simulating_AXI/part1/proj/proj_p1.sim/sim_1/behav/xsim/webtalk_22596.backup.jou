@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Webtalk v2018.3 (64-bit)
+# SW Build 2405991 on Thu Dec  6 23:38:27 MST 2018
+# IP Build 2404404 on Fri Dec  7 01:43:56 MST 2018
+# Start of session at: Fri Feb 14 12:03:32 2025
+# Process ID: 22596
+# Current directory: C:/Users/evanl/Development/ece532/ECE532_ASSIGNMENT_1_SIMULATING_AXI/part1/proj/proj_p1.sim/sim_1/behav/xsim
+# Command line: wbtcv.exe -mode batch -source C:/Users/evanl/Development/ece532/ECE532_ASSIGNMENT_1_SIMULATING_AXI/part1/proj/proj_p1.sim/sim_1/behav/xsim/xsim.dir/part1_tb_behav/webtalk/xsim_webtalk.tcl -notrace
+# Log file: C:/Users/evanl/Development/ece532/ECE532_ASSIGNMENT_1_SIMULATING_AXI/part1/proj/proj_p1.sim/sim_1/behav/xsim/webtalk.log
+# Journal file: C:/Users/evanl/Development/ece532/ECE532_ASSIGNMENT_1_SIMULATING_AXI/part1/proj/proj_p1.sim/sim_1/behav/xsim\webtalk.jou
+#-----------------------------------------------------------
+source C:/Users/evanl/Development/ece532/ECE532_ASSIGNMENT_1_SIMULATING_AXI/part1/proj/proj_p1.sim/sim_1/behav/xsim/xsim.dir/part1_tb_behav/webtalk/xsim_webtalk.tcl -notrace

@@ -1,0 +1,4 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/evanl/Development/ece532/ECE532_ASSIGNMENT_1_SIMULATING_AXI/part1/mask532.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module mask532
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/evanl/Development/ece532/ECE532_ASSIGNMENT_1_SIMULATING_AXI/part1/part1_tb.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module part1_tb

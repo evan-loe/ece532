@@ -1,0 +1,11 @@
+# compile verilog/system verilog design source files
+verilog xil_defaultlib  \
+"../../../../proj_p2.srcs/sources_1/imports/hdl/mask_axi532_v1_0_M00_AXI.v" \
+"../../../../proj_p2.srcs/sources_1/imports/hdl/mask_axi532_v1_0_S00_AXI.v" \
+"../../../../proj_p2.srcs/sources_1/imports/hdl/mask_axi532_v1_0.v" \
+
+# compile glbl module
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort

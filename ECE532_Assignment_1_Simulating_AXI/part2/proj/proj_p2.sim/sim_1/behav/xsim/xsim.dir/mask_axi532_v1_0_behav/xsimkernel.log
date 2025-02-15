@@ -1,0 +1,4 @@
+Running: xsim.dir/mask_axi532_v1_0_behav/xsimk.exe -simmode gui -wdb mask_axi532_v1_0_behav.wdb -simrunnum 0 -socket 59286
+Design successfully loaded
+Design Loading Memory Usage: 6040 KB (Peak: 6040 KB)
+Design Loading CPU Usage: 62 ms

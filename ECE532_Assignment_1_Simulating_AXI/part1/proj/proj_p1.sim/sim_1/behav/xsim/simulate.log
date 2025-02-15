@@ -1,0 +1,10 @@
+Vivado Simulator 2018.3
+Time resolution is 1 ps
+[0] IN: xxxxxxxx    OUT: xxxxxxxx     MASK: xx    EXPECTED: xxxxxxxx
+[15000] IN: 00000000    OUT: 00000000     MASK: 00    EXPECTED: 00000000
+[35000] IN: 00000000    OUT: fffffffe     MASK: 1f    EXPECTED: fffffffe
+[55000] IN: 01234567    OUT: fff34567     MASK: 0c    EXPECTED: fff34567
+[75000] IN: ffffffff    OUT: ffffffff     MASK: 00    EXPECTED: ffffffff
+[95000] IN: ffffffff    OUT: ffffffff     MASK: 0c    EXPECTED: ffffffff
+[115000] IN: xxxxxxxx    OUT: xxxxxxxx     MASK: xx    EXPECTED: xxxxxxxx
+END OF SIMULATION
