@@ -266,7 +266,7 @@
 	                      slv_reg0 <= slv_reg0;
 	                      slv_reg1 <= slv_reg1;
 	                      slv_reg2 <= slv_reg2;
-	                      slv_reg3 <= slv_reg3;
+	                      slv_reg3 <= 0;
 	                    end
 	        endcase
 	      end
